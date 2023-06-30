@@ -176,6 +176,10 @@
     "address": ["95.216.68.161:55639"]
   },
   {
+    "name": "Four Family VN",
+    "address": ["118.127.8.162:25503"]
+  },
+  {
     "name": "Official Mindustry Events",
     "address": ["event.baseduser.eu.org"],
     "prioritized": true
